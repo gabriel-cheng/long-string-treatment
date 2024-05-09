@@ -1,0 +1,5 @@
+docs/*.xlsx
+docs/new_names.txt
+main/token_generator.js
+main/names.txt
+tokenify.bat
